@@ -5,7 +5,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Google Data Analytics Certificate Case Study</b>
-  - [Google Data Analytics Case Study: Bike Share](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Data Analytics Case Study: Bike Share](https://github.com/bimmisc/GoogleDataAnalytics_BikeShare/tree/main)
 - <b>Microsoft Excel Practice Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>SQL Practice Project</b>
