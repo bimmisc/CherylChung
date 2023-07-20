@@ -9,7 +9,7 @@
 - <b>Microsoft Excel Practice Project</b>
   - [A Follow Along Practice Project on Coffee Sales Demonstrated by A YouTuber, Mo Chen](https://github.com/bimmisc/CoffeeSalesDashboard) <b><i>
 - <b>SQL Practice Project</b>
-  - [A Follow Along Practice on quering data about Chocolate Sales](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [A Follow-Along Practice on querying Chocolate Sales Data](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Tableau Practice Project</b>
   - [Amherst MA Weather Trends: Data were combined (27 datasets) and queried with MySQL](https://public.tableau.com/app/profile/cheryl.chung/viz/AmherstWeather2018to2023/AmherstWeatherDashboard)
   - [Frozen Dairy Products Availability & Consumption Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/FrozenDairyProductDashboard2/Dashboard2)
