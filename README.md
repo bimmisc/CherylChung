@@ -7,7 +7,7 @@
 - <b>Google Data Analytics Certificate Case Study</b>
   - [Google Data Analytics Case Study: Bike Share](https://github.com/bimmisc/GoogleDataAnalytics_BikeShare/tree/main)
 - <b>Microsoft Excel Practice Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [A Follow Along Practice Project on Coffee Sales Demonstrated by A YouTuber, Mo Chen](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>SQL Practice Project</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
