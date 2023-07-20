@@ -9,10 +9,9 @@
 - <b>Microsoft Excel Practice Project</b>
   - [A Follow Along Practice Project on Coffee Sales Demonstrated by A YouTuber, Mo Chen](https://github.com/bimmisc/CoffeeSalesDashboard) <b><i>
 - <b>SQL Practice Project</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [A Follow Along Practice on quering data about Chocolate Sales](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Tableau Practice Project</b>
-  - [Amherst MA Weather Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/AmherstWeather2018to2023/AmherstWeatherDashboard)
+  - [Amherst MA Weather Trends: Data were combined (27 datasets) and queried with MySQL](https://public.tableau.com/app/profile/cheryl.chung/viz/AmherstWeather2018to2023/AmherstWeatherDashboard)
   - [Frozen Dairy Products Availability & Consumption Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/FrozenDairyProductDashboard2/Dashboard2)
   - [A Follow Along Practice Project on Housing Sales Demonstrated by a YouTuber, Mo Chen](https://public.tableau.com/app/profile/cheryl.chung/viz/Practice_House_Sales_Dashboard/DashboardKingCountyHouseSales)
 
