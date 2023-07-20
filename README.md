@@ -1,4 +1,4 @@
-<h1>Hello, I'm Cheryl! <br/><a href="www.linkedin.com/in/cherylyenchung">Food Scientist</a>, Aspiring Data Analyst</a></h1>
+<h1>Hello, I'm Cheryl! <br/><a href="https://www.linkedin.com/in/cherylyenchung">Food Scientist</a>, Aspiring Data Analyst</a></h1>
 
 <h4> 🌱  I recently completed the Google Data Analytics Certificate. The course has taught me many fundamentals and valuable data analysis information! I am ready to dive deeper into the World of Data Analytics, and aspiring to be a Data Analyst who conquers Big Data!  🌱</h4>
 
