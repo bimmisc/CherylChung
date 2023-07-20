@@ -13,9 +13,9 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>Tableau Practice Project</b>
-  - [Amherst MA Weather Trends](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Frozen Dairy Products Availability & Consumption Trends](https://github.com/joshmadakor1/DecrypterPOC)
-  - [A Follow Along Practice Project on Housing Sales Demonstrated by a YouTuber, Mo Chen](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Amherst MA Weather Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/AmherstWeather2018to2023/AmherstWeatherDashboard)
+  - [Frozen Dairy Products Availability & Consumption Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/FrozenDairyProductDashboard2/Dashboard2)
+  - [A Follow Along Practice Project on Housing Sales Demonstrated by a YouTuber, Mo Chen](https://public.tableau.com/app/profile/cheryl.chung/viz/Practice_House_Sales_Dashboard/DashboardKingCountyHouseSales)
 
 
 <h2> 🤳 Connect with me</h2>
