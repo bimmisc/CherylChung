@@ -11,7 +11,6 @@
 - <b>SQL Practice Project</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>Tableau Practice Project</b>
   - [Amherst MA Weather Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/AmherstWeather2018to2023/AmherstWeatherDashboard)
   - [Frozen Dairy Products Availability & Consumption Trends](https://public.tableau.com/app/profile/cheryl.chung/viz/FrozenDairyProductDashboard2/Dashboard2)
