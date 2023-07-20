@@ -21,7 +21,7 @@
 <h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="CherylChung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][LinkedIn]
-[<img align="left" alt="CherylChung | LinkedIn" width="22px" src="https://scholar.google.com/citations/images/avatar_scholar_128.png" />][GoogleScholar]
+[<img align="left" alt="CherylChung | GoogleScholar" width="22px" src="https://scholar.google.com/citations/images/avatar_scholar_128.png" />][GoogleScholar]
 
 
 [linkedin]: www.linkedin.com/in/cherylyenchung
