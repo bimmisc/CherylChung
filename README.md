@@ -1,4 +1,6 @@
-<h1>Hello there, I'm Chung! <br/><a href="www.linkedin.com/in/cherylyenchung">Food Scientist</a>, Aspiring Data Analyst</a></h1>
+<h1>Hello, I'm Cheryl! <br/><a href="www.linkedin.com/in/cherylyenchung">Food Scientist</a>, Aspiring Data Analyst</a></h1>
+
+<h4> 🌱 I recently completed the Google Data Analytics Certificate. The course has taught me a lot of fundamentals and valuable information! I am ready to dive deeper into the World of Data Analytics, and aspiring to be a Data Analyst!🌱</h4>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -25,8 +27,6 @@
 [GoogleScholar]: https://scholar.google.com/citations?user=2E2law8AAAAJ&hl=en
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
